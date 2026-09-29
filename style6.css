@@ -1,0 +1,25 @@
+.navbar{
+    padding: 10x;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navbar a{
+    text-decoration: none;
+    color: black;
+    padding: 10px 30px;
+}
+.hero{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 600px;
+    background-image: url("https://www.w3schools.com/w3images/architect.jpg");
+    
+color: aliceblue;
+
+}
+.hero h1{
+    background-color: black;
+}
+    
